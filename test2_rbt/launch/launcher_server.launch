@@ -1,0 +1,5 @@
+<launch>
+    
+    <node pkg=“test2_rbt" type="server_test.py" name="server_test.py"  output="screen">
+    </node>
+</launch>
